@@ -54,7 +54,7 @@ cd Weather-App
 
     Open in Android Studio
 
-    (Optional) Add your weather API key in Constants.kt or .env file.
+    (REQUIRED) Add your weather API key in Constants.kt 
 
     Run on emulator or device
 
