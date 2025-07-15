@@ -29,6 +29,15 @@ A beautifully designed **Weather Forecast App** built using **Jetpack Compose**,
 
 ---
 
+
+##  📸 Screenshots
+
+![first](Screenshot/first.png)
+![search](Screenshot/search.png)
+![fullview](Screenshot/fullview.png)
+
+---
+
 ## 🧑‍💻 Architecture
 
 Follows **MVVM (Model-View-ViewModel)** pattern:
@@ -58,9 +67,6 @@ cd Weather-App
 
     Run on emulator or device
 
-📸 Screenshots
-
-   ![first](Screenshot/first.png)
     
 
 🔐 API Configuration (Optional)
