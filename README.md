@@ -60,7 +60,8 @@ cd Weather-App
 
 📸 Screenshots
 
-    (Add screenshots here of the app UI with weather info)
+   ![main_screen](second1png.png)
+    
 
 🔐 API Configuration (Optional)
 
