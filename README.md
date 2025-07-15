@@ -60,7 +60,7 @@ cd Weather-App
 
 📸 Screenshots
 
-   ![main_screen](second1png.png)
+   ![first](Screenshot/first.png)
     
 
 🔐 API Configuration (Optional)
